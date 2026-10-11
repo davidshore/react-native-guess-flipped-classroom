@@ -21,9 +21,12 @@ Efter uppgiften ska du kunna:
 
 ### Läs och förklara
 
-Läs avsnitten om `value`, `onChangeText` och `keyboardType` i [React Natives dokumentation om TextInput](https://reactnative.dev/docs/textinput).
+Börja läsa här: https://reactnative.dev/docs/getting-started
+och läs fram till och med: handling text input: https://reactnative.dev/docs/handling-text-input
 
-Några frågor att svara på innan vi börjar bygga:
+Läs även avsnitten om `value`, `onChangeText` och `keyboardType` i [React Natives dokumentation om TextInput](https://reactnative.dev/docs/textinput).
+
+Några frågor att svara på innan du börjar bygga spelet:
 
 1. Vilka komponenter motsvarar ungefär `div`, `p`, `input` och `button` från React för webben?
 2. Vilken information behöver spelet lagra i state?
