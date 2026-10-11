@@ -74,6 +74,6 @@ const [guess, setGuess] = useState("");
 <Text>Du skrev: {guess}</Text>
 ```
 
-`TextInput` hanterar text. `keyboardType` påverkar tangentbordet, medan din kod behöver kontrollera innehållet. Se [TextInput](https://reactnative.dev/docs/textinput).
+`TextInput` hanterar text. `keyboardType` påverkar tangentbordet, medan din kod behöver kontrollera innehållet.
 
 Slutför sedan hela spelet.
