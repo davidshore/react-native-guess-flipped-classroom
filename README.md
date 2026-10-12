@@ -10,7 +10,7 @@ Ett textfält för att ange en gissning
 En knapp för att skicka in gissningen
 En textvisning för att ge feedback om gissningen var för hög, för låg eller korrekt
 
-## Det här ska du lära dig
+## Mål
 
 Efter uppgiften ska du kunna:
 
